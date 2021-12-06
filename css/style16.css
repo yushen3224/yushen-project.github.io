@@ -1,0 +1,24 @@
+body {
+  background: url(../inf/image9.gif);
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: 100%;
+  background-repeat: repeat;
+}
+.banner {
+  margin-left: 29vw;
+  margin-top: -10vh;
+  width: 85vh; 
+  height: 85vh;
+}
+p {
+  margin-left: 25vw;
+  font-weight: bolder;
+  font-size: 3vw;
+  margin-top: -5vw;
+  font-family: Papyrus;
+  background-color: FFFFFF;
+  width: 47vw; 
+  height: 9vw;
+  opacity: 0.8;
+}

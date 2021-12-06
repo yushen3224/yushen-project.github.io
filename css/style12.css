@@ -1,0 +1,27 @@
+body {
+  background-image: url(../inf/image8.jpeg);
+  background-position:  center center;
+  background-attachment: fixed;
+  background-size: 100%;
+  overflow: hidden;
+  margin-top: 0px;
+  font-family: mistral;
+  font-size: 1.5em;
+}
+
+.ban {
+  position: absolute;
+  margin-top: 49vh;
+  margin-left: 40vw;
+width: 14vh; 
+height:  7vh;
+opacity: 0;
+}
+.bann {
+  position: absolute;
+  margin-left: 40vw;
+  margin-top: 40vh;
+width: 14vh; 
+height: 7vh;
+opacity: 0;
+}

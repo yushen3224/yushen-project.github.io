@@ -1,0 +1,33 @@
+body {
+  background-position:  center center;
+  background-attachment: fixed;
+  background-size: 100%;
+  background-image: url(../inf/image3.jpg);
+}
+.k {
+position: absolute;
+width: 60vw;
+height: 30vw;
+left: 30vh;
+top: 25vh;
+border: solid 1px black;
+}
+.banner {
+position: relative ;
+transform: rotate(-90deg);
+top: 40vh;
+left: 24vh;
+border: 0px solid ; 
+width: 17vh;
+height: 7vh;
+}
+
+.banner2 {
+position: relative ;
+top: 32vw;
+left: 69vw;
+transform: rotate(90deg);
+border: 0px solid; 
+width: 18vh;
+height: 8vh;
+}

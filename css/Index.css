@@ -1,0 +1,42 @@
+body {
+  background-image: url(../image1.jpg);
+  background-position:  center center;
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-size: 100%
+}
+.banner {
+height: 35vh;
+width: 25vw;
+margin-left: 70vw;  
+}
+h1{
+font-family: courier new;
+font-size: 10vh;
+margin-left: 4vw;  
+margin-top: 19vh;
+background-color: #FFCC66;
+opacity: 0.8;
+width: 45vw; 
+height: 10vh;
+}
+h2 {
+font-family: courier new;
+font-size: 10vh;
+margin-left: 4vw;  
+margin-top: -5vh;
+background-color: #FFCC66;
+opacity: 0.8;
+width: 55vw; 
+height: 10vh;  
+}
+h3 {
+font-family: courier new;
+font-size: 10vh;
+margin-left: 4vw;
+margin-top: -7vh;  
+background-color: #FFCC66;
+opacity: 0.8;
+width: 40vw; 
+height: 10vh;
+}

@@ -1,0 +1,13 @@
+body {
+  background-position:  center center;
+  background-attachment: fixed;
+  background-size: 100%;
+  background-image: url(../inf/image3.jpg);
+
+}
+.banner {
+  margin-top: 40vh;
+  margin-left: -5vh;
+  width: 17vw; 
+  height: 40vh;
+}

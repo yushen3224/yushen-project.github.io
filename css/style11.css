@@ -1,0 +1,39 @@
+body {
+background-position: center center;
+background-attachment: fixed;
+background-size: 100%;
+font-family: mistral;
+background-image: url(../inf/image6.jpeg);
+}
+
+.lol {
+  margin-left: 3vw;
+  margin-top: -75vh;
+  width: 60vh; 
+  height: 57vh;
+}
+
+#tw {
+  background-color: #ffcc66;
+  font-family: "courier new",courier,monospace;
+  font-weight: bold;
+  opacity: 0.831;
+  color: black;
+  font-size: 2.8vh;
+  border: 1px solid #000000;
+  padding: 5px;
+  margin-top: 65vh;
+  margin-left: 3vw;
+  width: 57vh;
+  height: 20vh;
+  position: relative;
+}
+
+.banner {
+  position: absolute;
+opacity: 0.0;
+  width: 8vh; 
+  height: 14vh;
+top: 48vh;
+left:73vw;
+}

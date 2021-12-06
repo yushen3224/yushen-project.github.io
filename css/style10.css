@@ -1,0 +1,36 @@
+body {
+  background-image: url(../inf/image3.jpg);
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: 100%;
+  background-repeat: repeat;
+}
+#tw {
+  background-color: #ffcc66;
+  font-family: "courier new",courier,monospace;
+  font-weight: bold;
+  opacity: 0.831;
+  color: black;
+  font-size: 2.8vh;
+  border: 1px solid #000000;
+  padding: 5px;
+  position: relative;
+  margin-top: 55vh;
+  margin-left: 10vw;
+  width: 85vh;
+  height: 10vh;
+}
+.lol {
+  margin-left: 63vw;
+  margin-top: -55vh;
+  width: 60vh; 
+  height: 57vh;
+  
+}
+big{
+font-weight: bold; 
+font-size: 5vh;
+margin-left: 40vw;
+background-color: #000000;
+opacity: 0.7;
+}

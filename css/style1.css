@@ -1,0 +1,35 @@
+body {
+  background-position:  center center;
+  background-image: url(../inf/image1.jpg);
+  background-repeat: repeat;
+  background-size: 100%;
+  background-attachment: fixed;
+}
+#tw {
+  margin-top: 55vh;
+  margin-left: 10vw;
+  background-color: #ffcc66;
+  font-family: "courier new",courier,monospace;
+  font-weight: bold;
+  color: black;
+  opacity: 0.831;
+  font-size: 2.8vh;
+  border: 1px solid #000000;
+  padding: 5px;
+  width: 85vh;
+  height: 10vh;
+  position: relative;
+}
+.banner {
+  margin-left: 63vw;
+  margin-top: -50vh;
+  width: 60vh; 
+  height: 57vh;
+}
+big{
+font-weight: bold; 
+font-size: 5vh;
+margin-left: 95vh;
+background-color: #000000;
+opacity: 0.8;
+}
