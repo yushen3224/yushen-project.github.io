@@ -1,0 +1,27 @@
+<html><head>
+  <meta content="text/html; charset=Windows-1251" http-equiv="content-type">
+  <link rel="stylesheet" href="css/style7.css">
+  <title>Max</title>
+</head>
+<body>
+<script type="text/javascript">
+var content = "Er steht am Eingang ? Verdammt!  Was nun? Vielleicht haben wir ja weitere Ausgaenge in der Schule, die ich nutzen kann&#8230;";
+function twDisplayTW() {twDisplay('tw',content,0);}
+loaded('tw',twDisplayTW);
+var brk = '~'; // character to use for line break
+var resetTime = 0; // set to 0 to not reset or seconds to delay before reset
+function twDisplay(id,content,num) {var delay = 25; if (num <= content.length)  {var lt = content.substr(0,num); document.getElementById(id).innerHTML = lt.replace(RegExp(brk,'g'),'<br \/>'); num++; if (num > content.length) delay = resetTime * 1000;} else {document.getElementById(id).innerHTML = ''; num = 0;} if (delay > 0) setTimeout('twDisplay("'+id+'","'+content+'","'+num+'")',delay);} var pageLoaded = 0; window.onload = function() {pageLoaded = 1;}; function loaded(i,f) {if (document.getElementById && document.getElementById(i) != null) f(); else if (!pageLoaded) setTimeout('loaded(\''+i+'\','+f+')',100);}
+</script>
+<div class="compute" id="tt0">
+<div id="main">
+<div id="tw">
+</div>
+</div>
+</div>
+
+
+<img alt="" class="banner" src="inf/image%20%286%29.png"><br>
+<big><a style="color: #ffcc66" href="8.html">Weiter-&gt;</a></big>
+<br>
+
+</body></html>
